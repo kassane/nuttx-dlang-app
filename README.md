@@ -1,5 +1,7 @@
 # nuttx-dlang-app
 
+upstream PR: https://github.com/apache/nuttx/pull/12457
+
 D Apps for Apache NuttX RTOS and QEMU RISC-V 
 
 Inspired in [Rust Apps for Apache NuttX RTOS and QEMU RISC-V](https://github.com/lupyuen/nuttx-rust-app) by [Lup Yuen Lee](https://github.com/lupyuen).
