@@ -44,7 +44,7 @@ There are some common errors to work around (not just in rv32/64).
 - verbose/tips keywords:
     - `-vgc`: list all gc allocations including hidden ones (if use DRT/GC alloc)
     - `-vtls`: list all variables going into TLS (thread local storage)
-    - `-errors=context`: show error messages with the context of the erroring source line (show LoC error)
+    - `-verrors=context`: show error messages with the context of the erroring source line (show LoC error)
 ```diff
 --- a/examples/hello_d/Makefile
 +++ b/examples/hello_d/Makefile
